@@ -26,15 +26,15 @@ This project aims to develop an AI-based trading platform that leverages machine
 
 2. Set Up the Frontend
     Navigate to the frontend directory and install dependencies:    
-    cd frontend/my-app
-    npm install
-    npm start
+    'cd frontend/my-app'
+    'npm install'
+    'npm start'
     This will start the development server for the React application.
 
 3. Set Up the Python Environment (Assuming use of virtualenv)
-    virtualenv venv
-    source venv/bin/activate  # On Windows use `venv\Scripts\activate`
-    pip install -r requirements.txt
+    'virtualenv venv'
+    'source venv/bin/activate'  # On Windows use `venv\Scripts\activate`
+    'pip install -r requirements.txt'
 
 ### Running the Application
 - Ensure both the frontend and the backend services are running. For now, the frontend can be accessed at http://localhost:3000 in your web browser.
