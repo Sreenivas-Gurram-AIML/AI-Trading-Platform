@@ -46,5 +46,5 @@ This project aims to develop an AI-based trading platform that leverages machine
 ### Contributing
 - Contributions are welcome! Please fork the repository and submit pull requests, or create issues for any bugs you've noticed or features you think should be added.
 
-### License
+## License
 - This README provides a comprehensive guide to your project, making it easier for others to understand and contribute to. Make sure to replace placeholders like repository URLs and license terms with actual data relevant to your project.
