@@ -24,11 +24,13 @@ This project aims to develop an AI-based trading platform that leverages machine
    git clone https://github.com/your-repository/ai-trading-platform.git
    cd ai-trading-platform
 
-2. Set Up the Frontend
-    Navigate to the frontend directory and install dependencies:    
-    'cd frontend/my-app'
-    'npm install'
-    'npm start'
+2. **Set Up the Frontend**
+    Navigate to the frontend directory and install dependencies: 
+    ```bash
+    cd frontend/my-app
+    npm install
+    npm start
+    
     This will start the development server for the React application.
 
 3. Set Up the Python Environment (Assuming use of virtualenv)
