@@ -35,8 +35,8 @@ This project aims to develop an AI-based trading platform that leverages machine
 
 3. **Set Up the Python Environment** (Assuming use of virtualenv)
     ```bash
-    virtualenv venv
-    source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+    python -m venv venv
+    venv\Scripts\activate
     pip install -r requirements.txt
     ```
 
