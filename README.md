@@ -30,7 +30,7 @@ This project aims to develop an AI-based trading platform that leverages machine
     cd frontend/my-app
     npm install
     npm start
-    
+    ```
     This will start the development server for the React application.
 
 3. Set Up the Python Environment (Assuming use of virtualenv)
